@@ -123,13 +123,12 @@ Kaplan-Meier Plotter에서 직접 그린 그림입니다. 검은 선은 발현 �
 ## 폴더 구성
 
 ```
-├── README.md
-    ├── gepia2_boxplot_ITGA3.png
-    ├── gepia2_boxplot_ITGA5.png
-    ├── gepia2_boxplot_ITGA6.png
-    ├── km_os_ITGA3.png
-    ├── km_os_ITGA5.png
-    └── km_os_ITGA6.png
+gepia2_boxplot_ITGA3.png
+gepia2_boxplot_ITGA5.png
+gepia2_boxplot_ITGA6.png
+km_os_ITGA3.png
+km_os_ITGA5.png
+km_os_ITGA6.png
 ```
 
 ## 참고
