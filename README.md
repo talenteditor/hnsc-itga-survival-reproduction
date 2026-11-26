@@ -57,7 +57,7 @@ Feng C, Jin X, Han Y, Guo R, Zou J, Li Y, Wang Y. **Expression and Prognostic An
 
 | ITGA3 | ITGA5 | ITGA6 |
 | :---: | :---: | :---: |
-| ![ITGA3 박스플롯](figures/gepia2_boxplot_ITGA3.png) | ![ITGA5 박스플롯](figures/gepia2_boxplot_ITGA5.png) | ![ITGA6 박스플롯](figures/gepia2_boxplot_ITGA6.png) |
+| ![ITGA3 박스플롯](gepia2_boxplot_ITGA3.png) | ![ITGA5 박스플롯](gepia2_boxplot_ITGA5.png) | ![ITGA6 박스플롯](gepia2_boxplot_ITGA6.png) |
 
 GEPIA2에서 직접 그린 그림입니다. 빨강은 종양(519개), 회색은 정상 조직(44개)입니다.
 
@@ -75,7 +75,7 @@ GEPIA2에서 직접 그린 그림입니다. 빨강은 종양(519개), 회색은 
 
 | ITGA3 | ITGA5 | ITGA6 |
 | :---: | :---: | :---: |
-| ![ITGA3 KM 곡선](figures/km_os_ITGA3.png) | ![ITGA5 KM 곡선](figures/km_os_ITGA5.png) | ![ITGA6 KM 곡선](figures/km_os_ITGA6.png) |
+| ![ITGA3 KM 곡선](km_os_ITGA3.png) | ![ITGA5 KM 곡선](km_os_ITGA5.png) | ![ITGA6 KM 곡선](km_os_ITGA6.png) |
 
 Kaplan-Meier Plotter에서 직접 그린 그림입니다. 검은 선은 발현 낮음, 빨간 선은 발현 높음이고, 환자는 유전자마다 총 499명입니다.
 
